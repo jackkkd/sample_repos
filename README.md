@@ -1,5 +1,5 @@
 # sample_repos
-## 🎤 My Favorite Song: "Breathe" by Pimk Floyd
+## 🎤 My Favorite Song: "Breathe" by Pink Floyd
 
 This song is, in my opinion, a masterpiece of pink floyd's whole discovery.
 
